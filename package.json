@@ -1,0 +1,10 @@
+{
+  "name": "hello-ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
